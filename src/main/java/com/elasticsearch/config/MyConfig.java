@@ -1,4 +1,4 @@
-package com.elasticsearch;
+package com.elasticsearch.config;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
